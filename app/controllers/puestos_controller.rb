@@ -1,0 +1,3 @@
+class PuestosController < ApplicationController
+	
+end
